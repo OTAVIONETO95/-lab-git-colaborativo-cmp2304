@@ -1,0 +1,2 @@
+ LISTA DE ALUNOS.txt
+# Lista de Presença - Atividade de Laboratório Git/GitHub
